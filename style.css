@@ -1,0 +1,36 @@
+.body {
+  line-height: 1.5;
+}
+.container {
+  width: 640px;
+  margin: auto;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+.articles {
+  width: 404px;
+}
+.article_item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+.article_item-img {
+  width: 90px;
+  height: 90px;
+  margin-right: 20px;
+}
+.article_item-title {
+  line-height: 1.2;
+  font-size: 20px;
+}
+.picture {
+  width: 216px;
+  height: 216px;
+}
+.footer {
+  padding: 48px 0;
+}
